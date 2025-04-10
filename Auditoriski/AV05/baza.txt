@@ -1,0 +1,24 @@
+
+                string[] tehnickaLiteratura = {
+                "Beginning ASP.NET 2.0 in C# From Novice To Professional",
+                "Introduction To Automata Theory, Languages and Computation",
+                "Cisco CCNA 3.0 Study Guide",
+                "Broadband Telecommunications Handbook"
+            };
+                string[] tehnickaLiteraturaCeni = { "2300", "1280", "4920", "3090" };
+
+                string[] naucnaFantastika = {
+                "Star Wars, Jedi vs. Sith: The Essential",
+                "Harry Potter and the Prisoner of Azkaban",
+                "Ghosts of Onyx",
+                "Fleet of Worlds"
+            };
+                string[] naucnaFantastikaCeni = { "1400", "2930", "2500", "1300" };
+
+                string[] avtomobili = {
+                "The Art of the Sports Car: The Greatest Designs of the 20th Century",
+                "Automobile, September 2007 Issue",
+                "New Car Buying Guide 2007",
+                "The New Illustrated Encyclopedia of Automobiles"
+            };
+                string[] avtomobiliCeni = { "2300", "4100", "2010", "2210" };
